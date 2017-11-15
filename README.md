@@ -1,2 +1,2 @@
-# ANTLR
+# Test
 Test of the grammer
